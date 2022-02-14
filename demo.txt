@@ -1,1 +1,3 @@
-hello to git
+Hello to git!
+
+by Gharahld
